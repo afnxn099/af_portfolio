@@ -1,0 +1,2 @@
+C:/Users/AFNAN/AndroidStudioProjects/afnan_portfolio/build/.cxx/release/3t6v35we/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/AFNAN/AndroidStudioProjects/afnan_portfolio/build/.cxx/release/3t6v35we/x86_64/CMakeFiles/rebuild_cache.dir
